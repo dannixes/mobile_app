@@ -1,4 +1,4 @@
-import {FlatList, Text, Pressable, Image, View, TouchableOpacity} from "react-native";
+import {FlatList, Text, Pressable, Image, View, TouchableOpacity, Button} from "react-native";
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Fragment } from  'react';
 import { offers, images } from "@/constants";
@@ -60,6 +60,7 @@ export default function Index() {
                 </View>
 
             )}
+
         />
       </SafeAreaView>
   );
