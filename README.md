@@ -2,9 +2,9 @@
 
 A mobile food delivery application built with React Native as a learning project.
 
-![Project Screenshot](assets/images/mobileApp_1.png)
-![Project Screenshot](assets/images/mobileApp_2.png)
-![Project Screenshot](assets/images/mobileApp_3.png)
+![Project Screenshot](assets/images/mobileApp_1.jpg)
+![Project Screenshot](assets/images/MobileApp_2.jpg)
+![Project Screenshot](assets/images/MobileApp_3.jpg)
 
 
 ## Features
